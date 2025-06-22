@@ -14,4 +14,6 @@ This project predicts monthly salaries in Sri Lanka’s tech job market based on
    ```bash
    pip install -r requirements.txt
 
+
+Run the app 
 streamlit run app.py
